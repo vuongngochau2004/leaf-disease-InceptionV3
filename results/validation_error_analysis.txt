@@ -1,0 +1,15 @@
+Tổng số mẫu bị phân loại sai (validation): 32/738 (4.34%)
+
+Lớp 'Bacterial Leaf Blight': 4/83 mẫu bị phân loại sai (4.82%)
+  Thường bị nhầm với: Brown Spot: 2 mẫu (50.0%), Leaf scald: 1 mẫu (25.0%), Narrow Brown Leaf Spot: 1 mẫu (25.0%), 
+Lớp 'Brown Spot': 2/110 mẫu bị phân loại sai (1.82%)
+  Thường bị nhầm với: Healthy Rice Leaf: 1 mẫu (50.0%), Leaf scald: 1 mẫu (50.0%), 
+Lớp 'Healthy Rice Leaf': 0/75 mẫu bị phân loại sai (0.00%)
+Lớp 'Leaf Blast': 15/125 mẫu bị phân loại sai (12.00%)
+  Thường bị nhầm với: Narrow Brown Leaf Spot: 5 mẫu (33.3%), Bacterial Leaf Blight: 4 mẫu (26.7%), Leaf scald: 4 mẫu (26.7%), 
+Lớp 'Leaf scald': 0/93 mẫu bị phân loại sai (0.00%)
+Lớp 'Narrow Brown Leaf Spot': 6/64 mẫu bị phân loại sai (9.38%)
+  Thường bị nhầm với: Leaf scald: 3 mẫu (50.0%), Bacterial Leaf Blight: 1 mẫu (16.7%), Brown Spot: 1 mẫu (16.7%), 
+Lớp 'Rice Hispa': 0/87 mẫu bị phân loại sai (0.00%)
+Lớp 'Sheath Blight': 5/101 mẫu bị phân loại sai (4.95%)
+  Thường bị nhầm với: Leaf scald: 2 mẫu (40.0%), Leaf Blast: 1 mẫu (20.0%), Narrow Brown Leaf Spot: 1 mẫu (20.0%), 
